@@ -1,0 +1,2 @@
+teste.phpinfo
+<?php
